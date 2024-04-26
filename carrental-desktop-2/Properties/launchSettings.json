@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "carrental-desktop-2": {
+      "commandName": "Project"
+    },
+    "carrental-cli-2": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
